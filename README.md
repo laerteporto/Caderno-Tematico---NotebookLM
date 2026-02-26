@@ -1,2 +1,2 @@
 # Caderno-Tematico---NotebookLM
-Financeiro Introdudorio
+Financeiro Introdutorio
